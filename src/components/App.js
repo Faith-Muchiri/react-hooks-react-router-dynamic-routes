@@ -11,7 +11,7 @@ function App() {
   });
 
   return (
-    <div>
+    <div>                                                                                                                                                        
       <NavBar />
       <Switch>
         <Route path="/movies">
